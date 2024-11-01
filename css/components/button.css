@@ -1,0 +1,12 @@
+.btn-green {
+	background-color: #5F6F52;
+	color: whitesmoke;
+	padding: 8px 13px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: Playfair Display;
+}
+
+.btn-green:hover {
+	background-color: #CBD2A4;
+}
